@@ -78,7 +78,7 @@ export default function App() {
             className="lg:hidden w-full max-w-[280px] mx-auto aspect-[2/3] bg-surface-container-high border border-white/10 relative overflow-hidden shadow-2xl"
           >
             <img 
-              src="/kf-website/img/sinskiller-mobilecover.webp" 
+              src="https://github.com/kimeraforge/kf-website/blob/main/public/img/sinskiller-mobilecover.webp" 
               alt="sinskiller-mobilecover"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
@@ -145,7 +145,7 @@ export default function App() {
           >
             <div className="aspect-[4/5] bg-surface-container-high border border-white/10 relative overflow-hidden shadow-[0_0_50px_rgba(0,0,0,0.5)] group">
               <img 
-                src="/kf-website/img/sinskiller-desktopcover.webp" 
+                src="https://github.com/kimeraforge/kf-website/blob/main/public/img/sinskiller-desktopcover.webp" 
                 alt="sinskiller-desktopcover"
                 className="w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700"
                 referrerPolicy="no-referrer"
@@ -221,7 +221,7 @@ export default function App() {
             >
               <div className="aspect-square bg-surface-container-high border border-outline-variant/30 relative overflow-hidden group shadow-2xl">
                 <img 
-                  src="/kf-website/img/kflogo.webp" 
+                  src="https://github.com/kimeraforge/kf-website/blob/main/public/img/kflogo.webp" 
                   alt="kflogo"
                   className="w-full h-full object-cover grayscale opacity-60 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700"
                   referrerPolicy="no-referrer"
